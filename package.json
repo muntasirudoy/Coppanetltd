@@ -4,7 +4,7 @@
   "version": "0.0.0",
 
   "scripts": {
-    "dev": "vite webpack serve --config webpack.config.js --open",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
