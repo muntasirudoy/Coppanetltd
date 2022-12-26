@@ -1,0 +1,14 @@
+.is-sticky {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    box-shadow: 0 2px 24px 0 rgba(54, 54, 54, 0.12);
+    background: rgba(255, 255, 255, 0.864);
+    transition: 0.5s;
+    animation: 1000ms ease-in-out 3s normal none 1 running fadeInDown;
+
+    backdrop-filter: blur(40px);
+
+}
